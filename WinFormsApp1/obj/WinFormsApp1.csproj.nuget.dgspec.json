@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Object Oriented Programming\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "Z:\\Object Oriented Programming\\projet-win-form\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "Z:\\Object Oriented Programming\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "Z:\\Object Oriented Programming\\projet-win-form\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Object Oriented Programming\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "Z:\\Object Oriented Programming\\projet-win-form\\WinFormsApp1\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "Z:\\Object Oriented Programming\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectPath": "Z:\\Object Oriented Programming\\projet-win-form\\WinFormsApp1\\WinFormsApp1.csproj",
         "packagesPath": "C:\\Users\\schae\\.nuget\\packages\\",
-        "outputPath": "Z:\\Object Oriented Programming\\WinFormsApp1\\WinFormsApp1\\obj\\",
+        "outputPath": "Z:\\Object Oriented Programming\\projet-win-form\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\schae\\AppData\\Roaming\\NuGet\\NuGet.Config",
